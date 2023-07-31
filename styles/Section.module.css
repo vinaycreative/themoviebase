@@ -1,0 +1,12 @@
+.section{
+    width: 100%;
+}
+
+.header{
+    width: 100%;
+    padding: 10px 5px;
+}
+
+.body{
+    padding: '20px 0'
+}
